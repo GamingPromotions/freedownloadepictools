@@ -1,0 +1,2 @@
+
+Don't forget to turn off the windows defender before runing Dumpper.exe
